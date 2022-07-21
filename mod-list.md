@@ -11,8 +11,8 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | [FoundationGames](https://modrinth.com/user/FoundationGames) |  Makes chests, signs, beds, etc. render faster |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | [tr9zw](https://modrinth.com/user/tr7zw) | Stops rendering entities that are behind walls |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | [malte0811](https://modrinth.com/user/malte0811) | Reduces RAM usage |
-| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://modrinth.com/user/tuxed) | Makes the game startup faster |
-| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes game physics and chunk loading |
+| [LazyDFU](https://modrinth.com/mod/lazydfu) | [tuxed](https://modrinth.com/user/tuxed) | Makes the game startup faster |
+| [Lithium](https://modrinth.com/mod/lithium) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes game physics and chunk loading |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | [masady](https://www.curseforge.com/members/masady) | Allows you to display a hologram, loaded from a schematic file, for easier rebuilding |
 | [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) | [FX_PR0CESS](https://modrinth.com/user/fx_pr0cess) | Fixes several memory leaks |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |

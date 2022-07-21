@@ -21,4 +21,4 @@
 7. Launch the installed profile
 8. If you need any other help feel free to message @Lautner or @Brogan
 
-#[Contribution guidelines for this project](docs/mod-list.md)
+### [Mod List](https://github.com/Iautner/mindful-optimized/mod-list)

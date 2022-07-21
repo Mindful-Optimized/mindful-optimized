@@ -57,6 +57,7 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [AntiGhost](https://modrinth.com/mod/antighost) | [Giselbaer](https://modrinth.com/user/Giselbaer) | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | [comp500](https://modrinth.com/user/comp500) | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
 | [Chat Coords](https://modrinth.com/mod/chat-coords) | [mrboogybam](https://modrinth.com/user/mrboogybam) | Send your coordinates in the chat with the press of a button |
+| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | [jaredlll08](https://www.curseforge.com/members/jaredlll08) | Adds the ability to search for keybinds using their name in the KeyBinding menu |
 | [Don't Clear Chat History](https://modrinth.com/mod/dcch) | [anar4732](https://modrinth.com/user/anar4732) | Keeps typed message history across worlds |
 | [Debugify](https://modrinth.com/mod/debugify) | [isXander](https://modrinth.com/user/xanderisdev) | Fixes [a set of bugs](https://github.com/isXander/Debugify/blob/1.19/PATCHED.md) |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | [theoness1](https://modrinth.com/user/theoness1) | Eating Animation a mod that adds sprite animations for edible and drinkable items. |

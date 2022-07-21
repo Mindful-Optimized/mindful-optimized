@@ -15,7 +15,7 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Lithium](https://modrinth.com/mod/lithium) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes game physics and chunk loading |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | [masady](https://www.curseforge.com/members/masady) | Allows you to display a hologram, loaded from a schematic file, for easier rebuilding |
 | [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) | [FX_PR0CESS](https://modrinth.com/user/fx_pr0cess) | Fixes several memory leaks |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |
+| [Phosphor](https://modrinth.com/mod/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |
 | [Replay Mod](https://www.replaymod.com/download/) | [CrushedPixel](https://www.replaymod.com/docs/) | Record, relive and share your experience. |
 | [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) | [UltimateBoomer](https://modrinth.com/user/UltimateBoomer) | Improves the overall responsiveness of the game (less likely to freeze) |
 | [Sodium](https://modrinth.com/mod/sodium) | [CaffeineMC](https://modrinth.com/user/jellysquid3) | Optimizes general rendering to improve FPS, adds some graphics options ([Replay Mod compatible version](https://www.replaymod.com/download/sodium-fabric-mc1.19-0.4.2+replaymod.rev.bfbc6de.jar)) |

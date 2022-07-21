@@ -34,7 +34,6 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Continuity](https://modrinth.com/mod/continuity) | [Pepper_Bell](https://modrinth.com/user/Pepper_Bell) | Adds OptiFine's connected textures support |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | [isXander](https://modrinth.com/user/xanderisdev) | Makes tree leaves faster without compromising on appearance |
 | [Custom Entity Models](https://modrinth.com/mod/cem) | [dorianpb](https://modrinth.com/user/dorianpb) | Adds OptiFine's custom entity models |
-| [Custom Fog](https://modrinth.com/mod/custom-fog) | [Setadokalo](https://modrinth.com/user/setadokalo) |  Lets you change fog settings (distance, density, dimensions, etc.) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | [traben_0](https://modrinth.com/user/traben_0) | Adds OptiFine's random and emissive mobs support |
 | [Fabric Capes](https://modrinth.com/mod/capes) | [VictorKohler](https://modrinth.com/user/VictorKohler) | Adds OptiFine's and other mods' capes, [(Custom Cape)](https://minecraftcapes.net/) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | [ramidzkh](https://modrinth.com/user/ramidzkh) | Lets you take a high-res screenshot with F9 |

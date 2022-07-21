@@ -18,7 +18,7 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |
 | [Replay Mod](https://www.replaymod.com/download/) | [CrushedPixel](https://www.replaymod.com/docs/) | Record, relive and share your experience. |
 | [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) | [UltimateBoomer](https://modrinth.com/user/UltimateBoomer) | Improves the overall responsiveness of the game (less likely to freeze) |
-| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes general rendering to improve FPS, adds some graphics options | [Replay Mod compatible version](https://www.replaymod.com/download/sodium-fabric-mc1.19-0.4.2+replaymod.rev.bfbc6de.jar) |
+| [Sodium](https://modrinth.com/mod/sodium) | [CaffeineMC](https://modrinth.com/user/jellysquid3) | Optimizes general rendering to improve FPS, adds some graphics options ([Replay Mod compatible version](https://www.replaymod.com/download/sodium-fabric-mc1.19-0.4.2+replaymod.rev.bfbc6de.jar)) |
 | [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) | [henkelmax](https://www.curseforge.com/members/henkelmax) | Server Proximity voice chat |
 
 

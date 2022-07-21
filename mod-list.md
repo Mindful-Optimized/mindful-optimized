@@ -6,7 +6,7 @@ Mods can be removed if you don't want them or just download the mods you want by
 | Name | Author | Description |
 |---|---|---|
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | [FionaTheMortal](https://modrinth.com/user/fionathemortal) | Makes Biome Blend not impact performance |
-| [Blanket](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | [KosmX](https://modrinth.com/user/KosmX) | Minecraft Client fixes/tweaks |
+| [Blanket](https://modrinth.com/mod/blanket) | [KosmX](https://modrinth.com/user/KosmX) | Minecraft Client fixes/tweaks |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | [juliand665](https://modrinth.com/user/juliand665) | Renders Minecraft slower if it is in the background to reduce CPU usage |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | [FoundationGames](https://modrinth.com/user/FoundationGames) |  Makes chests, signs, beds, etc. render faster |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | [tr9zw](https://modrinth.com/user/tr7zw) | Stops rendering entities that are behind walls |

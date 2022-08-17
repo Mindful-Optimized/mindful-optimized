@@ -13,7 +13,6 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | [malte0811](https://modrinth.com/user/malte0811) | Reduces RAM usage |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | [tuxed](https://modrinth.com/user/tuxed) | Makes the game startup faster |
 | [Lithium](https://modrinth.com/mod/lithium) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes game physics and chunk loading |
-| [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | [masady](https://www.curseforge.com/members/masady) | Allows you to display a hologram, loaded from a schematic file, for easier rebuilding |
 | [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) | [FX_PR0CESS](https://modrinth.com/user/fx_pr0cess) | Fixes several memory leaks |
 | [Phosphor](https://modrinth.com/mod/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |
 | [Replay Mod](https://www.replaymod.com/download/) | [CrushedPixel](https://www.replaymod.com/docs/) | Record, relive and share your experience. |
@@ -44,7 +43,7 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Puzzle](https://modrinth.com/mod/puzzle) | [TeamMidnightDust](https://modrinth.com/user/teammidnightdust) |  Adds some minor OptiFine features like resource pack-provided splash screen |
 | [OptiGUI](https://modrinth.com/mod/optigui) | [opekope2](https://modrinth.com/user/opekope2) | Adds OptiFine's custom GUI support |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | [FlashyReese](https://modrinth.com/user/FlashyReese) | Makes Sodium's settings vertical, centered and scrollable |
-| ['Slight' Gui Modifications](https://modrinth.com/mod/slight-gui-modifications) | [shedaniel](https://modrinth.com/user/shedaniel) | Adds toast animations and FO text in main menu, plus several opt-in features |
+| [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | [shedaniel](https://modrinth.com/user/shedaniel) | Makes bubble particles pop. Fixes [MC-132067](https://bugs.mojang.com/browse/MC-132067) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | [FlashyReese](https://modrinth.com/user/FlashyReese) | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [Sheep Consistency](https://www.curseforge.com/minecraft/mc-mods/sheep-consistency) | [ims21](https://www.curseforge.com/members/ims21) | Adds consistent sheep dye coloring |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix) | [Kyrptonaught](https://modrinth.com/user/Kyrptonaught) | Ensures all possible tooltips fit to screen |

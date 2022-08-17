@@ -19,10 +19,8 @@
    7. Close Minecraft and re-open your Minecraft Launcher, click `Installations` and then click the folder icon (📂) on the your installation.
 
 4. Go to [Releases](https://github.com/Iautner/mindful-optimized/releases) on Github
-5. Click `Assets` on the latest **mindful-optimized-1.0.0.zip** of the pack
-   * or [click here](https://OWO) for a direct download (v1.0.0)
-6. Open the zip file, go to _Mindful Optimized x.x.x_ > _.minecraft_ (or whatever your directory is called)
-7. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+5. Download [Mindful-Optimized-v1.1.1-1.19.2.zip](https://github.com/Iautner/mindful-optimized/releases/download/v1.1.1/Mindful-Optimized-v1.1.1-1.19.2.zip)
+6. Extract the contents of [Mindful-Optimized-v1.1.1-1.19.2.zip](https://github.com/Iautner/mindful-optimized/releases/download/v1.1.1/Mindful-Optimized-v1.1.1-1.19.2.zip) into your minecraft folder or copy **all folders** from zip's folder to your .minecraft folder; if asked - replace the files
 8. Launch the installed profile
 
 # Update Instructions #

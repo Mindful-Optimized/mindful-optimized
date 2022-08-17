@@ -1,4 +1,4 @@
-# Install Instructions #
+# Install Instructions # 
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download)
 

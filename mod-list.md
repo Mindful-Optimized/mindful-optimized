@@ -12,7 +12,7 @@
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | [tuxed](https://modrinth.com/user/tuxed) | Makes the game startup faster |
 | [Lithium](https://modrinth.com/mod/lithium) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes game physics and chunk loading |
 | [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) | [FX_PR0CESS](https://modrinth.com/user/fx_pr0cess) | Fixes several memory leaks |
-| [Phosphor](https://modrinth.com/mod/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |
+| [Starlight](https://modrinth.com/mod/starlight) | [spottedleaf](https://modrinth.com/user/spottedleaf) | Optimizes light rendering |
 | [Replay Mod](https://www.replaymod.com/download/) | [CrushedPixel](https://www.replaymod.com/docs/) | Record, relive and share your experience. |
 | [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) | [UltimateBoomer](https://modrinth.com/user/UltimateBoomer) | Improves the overall responsiveness of the game (less likely to freeze) |
 | [Sodium](https://modrinth.com/mod/sodium) | [CaffeineMC](https://modrinth.com/user/jellysquid3) | Optimizes general rendering to improve FPS, adds some graphics options |

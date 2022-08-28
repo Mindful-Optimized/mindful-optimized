@@ -1,7 +1,5 @@
 # Mod List
 
-Mods can be removed if you don't want them or just download the mods you want by clicking on the mod name.
-
 ## Performance & Content Creation Mods
 | Name | Author | Description |
 |---|---|---|
@@ -17,7 +15,7 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Phosphor](https://modrinth.com/mod/phosphor) | [CaffeineMC](https://modrinth.com/user/jellysquid3_) | Optimizes light rendering |
 | [Replay Mod](https://www.replaymod.com/download/) | [CrushedPixel](https://www.replaymod.com/docs/) | Record, relive and share your experience. |
 | [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) | [UltimateBoomer](https://modrinth.com/user/UltimateBoomer) | Improves the overall responsiveness of the game (less likely to freeze) |
-| [Sodium](https://modrinth.com/mod/sodium) | [CaffeineMC](https://modrinth.com/user/jellysquid3) | Optimizes general rendering to improve FPS, adds some graphics options ([Replay Mod compatible version](https://www.replaymod.com/download/sodium-fabric-mc1.19-0.4.2+replaymod.rev.bfbc6de.jar)) |
+| [Sodium](https://modrinth.com/mod/sodium) | [CaffeineMC](https://modrinth.com/user/jellysquid3) | Optimizes general rendering to improve FPS, adds some graphics options |
 | [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) | [henkelmax](https://www.curseforge.com/members/henkelmax) | Server Proximity voice chat |
 
 
@@ -59,7 +57,6 @@ Mods can be removed if you don't want them or just download the mods you want by
 | [Don't Clear Chat History](https://modrinth.com/mod/dcch) | [anar4732](https://modrinth.com/user/anar4732) | Keeps typed message history across worlds |
 | [Debugify](https://modrinth.com/mod/debugify) | [isXander](https://modrinth.com/user/xanderisdev) | Fixes [a set of bugs](https://github.com/isXander/Debugify/blob/1.19/PATCHED.md) |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | [theoness1](https://modrinth.com/user/theoness1) | Eating Animation a mod that adds sprite animations for edible and drinkable items. |
-| [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | [altrisi](https://modrinth.com/user/altrisi) | Fixes the game freezing when you open resource pack folders, a screenshot etc. |
 | [Freecam](https://modrinth.com/mod/freecam) | [hashalite](https://modrinth.com/user/hashalite) | A simple, standalone freecam mod. (Great for screenshots!) |
 | [Low Fire](https://modrinth.com/mod/low-fire) | [UltimateBoomer](https://modrinth.com/user/UltimateBoomer) | Make the frst-person fire overlay less obtrusive by lowering its height on screen |
 | [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper) | [isXander](https://modrinth.com/user/xanderisdev) |  Shows an user-readable alert when two mods conflict |

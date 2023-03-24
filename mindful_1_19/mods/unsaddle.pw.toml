@@ -1,0 +1,13 @@
+name = "Unsaddle"
+filename = "unsaddle-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96729f2f0d58d9c6f1312099d7649c481ed0e99b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4394730
+project-id = 635110

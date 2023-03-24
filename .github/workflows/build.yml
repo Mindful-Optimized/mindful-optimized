@@ -1,0 +1,68 @@
+---
+name: Build modpacks
+on: push
+jobs:
+  index-modpacks:
+    name: Generate matrix based on available modpacks
+    runs-on: ubuntu-latest
+    outputs:
+      modpacks: ${{ steps.list-modpacks.outputs.modpacks }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - id: list-modpacks
+        name: List modpacks
+        run: echo modpacks=$(cat modpacks.json) >> $GITHUB_OUTPUT
+  build-modpack:
+    needs: index-modpacks
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: 
+        include: ${{ fromJSON(needs.index-modpacks.outputs.modpacks).modpacks }}
+    name: Build ${{ matrix.name }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup golang
+        uses: actions/setup-go@v3
+        with:
+          go-version: '>=1.18.0'
+      - name: Setup packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Refresh packwiz index
+        run: packwiz refresh
+        working-directory: ${{ matrix.id }}
+      - name: Build modpack
+        run: packwiz modrinth export --restrictDomains=false --output $OUTPUT
+        working-directory: ${{ matrix.id }}
+        env:
+          OUTPUT: ${{ matrix.id }}-${{ matrix.version }}.mrpack
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.id }}
+          path: ${{ matrix.id }}/${{ matrix.id }}-${{ matrix.version }}.mrpack
+          if-no-files-found: error
+  deploy:
+    needs: build-modpack
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Download modpacks
+        uses: actions/download-artifact@v3
+        with:
+          path: ../modpacks
+      - name: Create build folder
+        run: mkdir build
+      - name: Move modpacks.json to build folder
+        run: cp modpacks.json ./build
+      - name: Move modpacks to build folder
+        run: find ../modpacks -name '*.mrpack' -exec cp {} ./build \;
+      - name: Push to repository
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          publish_branch: build
+          force_orphan: true

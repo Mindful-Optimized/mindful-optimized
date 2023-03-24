@@ -1,0 +1,13 @@
+name = "Server Resourcepack Checker"
+filename = "resourcepackchecker-1.19.4-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e800f48db02626f7c43c6812311f78a8ca9ab45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4437094
+project-id = 687618

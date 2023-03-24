@@ -1,0 +1,10 @@
+{
+	"toggleMod": true,
+	"enableParticles": false,
+	"toggleAll": true,
+	"toggleOnlySilk": true,
+	"toggleOnlyFortune": true,
+	"allBlockList": [],
+	"onlySilkList": [],
+	"onlyFortuneList": []
+}

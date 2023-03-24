@@ -1,0 +1,12 @@
+{
+  "general": {
+    "clientSecret": ""
+  },
+  "chat": {
+    "ownerIcon": "",
+    "moderatorIcon": "",
+    "rudeWords": [],
+    "bannedRudeWords": [],
+    "rudeWordAction": "DELETE"
+  }
+}

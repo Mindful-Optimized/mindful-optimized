@@ -1,0 +1,22 @@
+{
+  "modpacks": [
+    {
+      "id": "mindful_1_19",
+      "name": "Mindful SMP 1.19.4",
+      "description": "Optimization modpack with extra tweaks and tools",
+      "version": "6.0.0"
+    },
+    {
+      "id": "mindful_1_19_lite",
+      "name": "Mindful SMP 1.19.4 Lite",
+      "description": "Optimization modpack with a few extra tweaks",
+      "version": "6.0.0"
+    },
+    {
+      "id": "mindful_1_20_alpha",
+      "name": "Mindful SMP 1.20 TEST",
+      "description": "This is a test version",
+      "version": "7.0.0-alpha"
+    }
+  ]
+}

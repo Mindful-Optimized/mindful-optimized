@@ -1,0 +1,9 @@
+{
+  "hardwareMode": "REDUCED",
+  "hideActiveRenderer": true,
+  "hideTags": true,
+  "hideDebugHints": true,
+  "shyFluids": true,
+  "hideSodium": true,
+  "hideIris": true
+}

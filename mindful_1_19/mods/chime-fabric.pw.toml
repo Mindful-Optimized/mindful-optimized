@@ -1,0 +1,13 @@
+name = "Chime (Fabric)"
+filename = "chime-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f693882b4495963c509e143bbfabe965af087532"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4314911
+project-id = 432776

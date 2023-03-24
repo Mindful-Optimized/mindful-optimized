@@ -1,0 +1,4 @@
+{
+	// The format of the string that gets copied. Use $x, $y and $z as placeholders.
+	"format": "Coordinates: $x, $y, $z"
+}

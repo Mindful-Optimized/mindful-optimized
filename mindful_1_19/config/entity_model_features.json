@@ -1,0 +1,10 @@
+{
+  "displayVanillaModelHologram": "Off",
+  "printModelCreationInfoToLog": false,
+  "printAllMaths": false,
+  "forceTranslucentMobRendering": false,
+  "spawnAnim": "None",
+  "spawnAnimTime": 4.0,
+  "mathFunctionChoice": "JavaMath",
+  "patchFeatures": false
+}

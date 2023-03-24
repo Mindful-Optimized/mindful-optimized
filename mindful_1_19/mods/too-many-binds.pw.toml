@@ -1,0 +1,13 @@
+name = "Too Many Binds"
+filename = "toomanybinds-0.3.3+1.19.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c543acfc8fe068228db2ba589fcc47cced50a52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4362274
+project-id = 412915

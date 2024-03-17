@@ -2,8 +2,9 @@
 
  ### [Our Mindful SMP Members](## "List shows currently active Mindful Members and Does not reflect the current server whitelist")
 
-- ![](https://mc-heads.net/avatar/7ee690f6674b478b960740a87ad72553/20)
+![](https://mc-heads.net/avatar/7ee690f6674b478b960740a87ad72553/20)
 [BlueNinjar](https://www.youtube.com/@BlueNinjar)
+
 - ![](https://mc-heads.net/avatar/e01719f1facb437a940e308c05ec23a8/20)
 [BeastyFTW](https://www.youtube.com/@beastyftw)
 - ![](https://mc-heads.net/avatar/93e35e9bd76a47bca69be2ee1edf499c/20)

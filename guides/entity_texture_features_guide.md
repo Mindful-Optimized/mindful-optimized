@@ -1,4 +1,4 @@
-# 🎨 Player skin features 
+# 🎨 Player skin features test
  
 - Player skins can use emissive, blinking, enchanted, and transparency texture features and more...
 - They are 100% optional, controlled by the skin file you upload to Mojang. ETF also provides options to prevent abuse of such features in PvP

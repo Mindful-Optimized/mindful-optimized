@@ -1,10 +1,4 @@
-Mindful SMP is a private whitelisted server creating content in a fun and collaborative survival setting full of unique individuals from all walks of life. We’ve been operating since October 2017 and are currently in our 6th Season!
-
-► [Join our Discord!](https://discord.mindfulsmp.com)
-
-► [Mindful SMP Channel](https://www.youtube.com/@MindfulSMP)
-
-► [Want to join us? Click to Apply!](https://apply.mindfulsmp.com)
+### Mindful SMP is a private whitelisted server creating content in a fun and collaborative survival setting full of unique individuals from all walks of life. We’ve been operating since October 2017 and are currently in our 6th Season!
 
 ► [Our Mindful SMP Members](## "List shows currently active Mindful Members and Does not reflect the current server whitelist")
 
@@ -24,3 +18,9 @@ Mindful SMP is a private whitelisted server creating content in a fun and collab
 - ![](https://mc-heads.net/avatar/dae2f45742e845659b2a2eac51aca23e/20) Salty: https://www.youtube.com/@saltenzy449
 - ![](https://mc-heads.net/avatar/d27664e6adf84fd290846fb35b153616/20) Stereotypical: https://www.youtube.com/@stereotypical01
 - ![](https://mc-heads.net/avatar/942a4fa9c18648cda50930c9308eb33a/20) YaBoiChips: https://www.youtube.com/@YaBoiChips
+
+- ![](https://mc-heads.net/avatar/ad93ac145e764a109d737786d9ad4bbd/20) [Mindful SMP Channel](https://www.youtube.com/@MindfulSMP)
+
+- [Want to join us? Click to Apply!](https://apply.mindfulsmp.com)
+
+- [Join our Discord](https://discord.mindfulsmp.com)

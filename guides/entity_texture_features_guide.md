@@ -1,4 +1,4 @@
-# 🎨 Player skin features test
+# 🎨 Player skin features
  
 - Player skins can use emissive, blinking, enchanted, and transparency texture features and more...
 - They are 100% optional, controlled by the skin file you upload to Mojang. ETF also provides options to prevent abuse of such features in PvP
@@ -8,7 +8,7 @@
 ### The easy way:
 
 - Skin features can be selected from the Skin Tool in ETF's settings available via Mod Menu and/or the ETF button in Guides and Info > Configuration
-- After choosing your features you can either upload them directly to Mojang from the tool or save the skin image and it upload yourself
+- After choosing your features you can either upload them directly to Mojang from the tool or save the skin image and upload yourself
 
 The manual way:
 (The manual documentation can be confusing, feel free to view the [ETF Discord server](https://discord.com/invite/rURmwrzUcz) if you get stuck)
@@ -20,7 +20,7 @@ The manual way:
 
 ETF can do this step for you **automatically**, simply open the mod menu settings and enable *"Apply skin
 feature template to a copy of your skin"* then open a world enter third person & press F3+T. You will see a message in
-chat when it is done, and you will find a copy of your skin in the minecraft directory folder called *"
+chat when it is done, and you will find a copy of your skin in the Minecraft directory folder called *"
 ETF_player_skin_printout.png"* that has the example template applied to it ready for the next steps after getting
 started.
 
@@ -56,7 +56,7 @@ ___
 - If the marker is present in your skin, you will then be able to use emissiveness in your skin
 - To enable Emissiveness you **must** choose **only one** numbered pixel
   in the marker and give it the Emissive color *(the pink in the marker choices list)  
-  (for example putting the pink color in #1 in the marker will select all the pixels in the corresponding
+  (for example, putting the pink color in #1 in the marker will select all the pixels in the corresponding
   box to the right side of the skin with a #1, and a picture of the marker, in it. that box will be selected for
   emissive pixels)*
 - After choosing a box on the right like this,
@@ -71,7 +71,7 @@ ___
 - If the marker is present in your skin, you will then be able to use enchanted pixels in your skin
 - To enable enchanted pixels you **must** choose **only one** numbered pixel
   in the marker and give it the Enchanting color *(the cyan in the marker choices list)  
-  (for example putting the cyan color in #2 in the marker will select all the pixels in the corresponding
+  (for example, putting the cyan color in #2 in the marker will select all the pixels in the corresponding
   box to the right side of the skin with a #2, and a picture of the marker, in it. that box will be selected for
   enchanted pixels)*
 - After choosing a box on the right like this,
@@ -85,8 +85,8 @@ ___
 
 - If the marker is present in your skin, you will then be able to have your skin blink periodically, but you must also choose what style of blinking.
 
-- 1 pixel height Eyes
-- 2 pixel height Eyes
+- 1-pixel height Eyes
+- 2-pixel height Eyes
 - 3-4 pixel height Eyes
 - Whole face texture blink
 
@@ -96,27 +96,27 @@ ___
 
 - First place a Red #3 pixel in Choice Box pixel #1 to enable 1 pixel blinking
 - Then make a copy of the horizontal line of the skin's face where the eyes are, and change the eyes to be closed.
-- Place this "closed eye copy" in the same place as the light purple line below the head in the Example Image.
-- Next the mod needs to know where your eyes are, place a numbered Color from the Color Guide in Choice Box #4 corresponding to the height of the skin's eyes *(The head texture is 8 pixels tall with #1 being the top line of the head & #8 being the bottom)*
+- Place this "closed-eye copy" in the same place as the light purple line below the head in the Example Image.
+- Next, the mod needs to know where your eyes are, place a numbered Color from the Color Guide in Choice Box #4 corresponding to the height of the skin's eyes *(The head texture is 8 pixels tall with #1 being the top line of the head & #8 being the bottom)*
 *(For Example Default Steve's eyes are at line #5, so you would place the Brown #5 pixel in Choice Box #4)*
 - You are now done, the mod will take the light purple line below the head texture and replace your skin's eyes with it when it blinks  
 
-- [This skin uses the 1 pixel blinking](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/blink-option1.png)
+- [This skin uses the 1-pixel blinking](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/blink-option1.png)
 
-#### 2 pixel blinking
+#### 2-pixel blinking
 
 If your skin's eyes are only 2 pixels tall - use this.
 
 - First place a Green #4 pixel in Choice Box pixel #1 to enable 2 pixel blinking
 - Then make 2 copies of the 2 horizontal lines of the skin's face where the eyes are, and change 1 copy's eyes to be closed, and the other's eyes to be half closed.
 - Place the "closed eye copy" in the same place as the light purple line & the purple line below the head in the Example Image.
-- Place the "half closed eye copy" in the same place as the white / purple checkered area below the head in the Example Image.
-- Next the mod needs to know where your eyes are, place a numbered Color from the Color Guide in Choice Box #4 corresponding to the height of the skin's eyes topmost pixel   
+- Place the "half-closed eye copy" in the same place as the white/purple checkered area below the head in the Example Image.
+- Next, the mod needs to know where your eyes are, place a numbered Color from the Color Guide in Choice Box #4 corresponding to the height of the skin's eyes topmost pixel   
 *(The head texture is 8 pixels tall with #1 being the top line of the head & #8 being the bottom)*  
 *(For Example Default Steve's eyes are at line #5, so you would place the Brown #5 pixel in Choice Box #4)*
 - You are now done, the mod will take the appropriate eye copy below the head texture and replace your skin's eyes with it when it blinks.
 
-- [This skin uses the 2 pixel blinking](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/blink-option2.png)
+- [This skin uses the 2-pixel blinking](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/blink-option2.png)
 
 #### 3-4 pixel blinking
 
@@ -124,11 +124,11 @@ If your skin's eyes are only 3-4 pixels tall - use this.
 This actually only supports 4 pixels, but you can simply copy an additional *non-eye* line of the face if your eyes are
 3 pixels high, and it will work fine :)
 
-- First place a Brown #5 pixel in Choice Box pixel #1 to enable 4 pixel blinking
+- First place a Brown #5 pixel in Choice Box pixel #1 to enable 4-pixel blinking
 - Then make 2 copies of the 4 horizontal lines of the skin's face where the eyes are, and change 1 copy's eyes to be closed, and the other's eyes to be half closed.
 - Place the "closed eye copy" in the same place as the pink & purple & checkerboard area below the head in the Example Image.
-- Place the "half closed eye copy" in the same place as the white / green checkered area below the head's 2nd layer in the Example Image.
-- Next the mod needs to know where your eyes are, place a numbered Color from the Color Guide in Choice Box #4 corresponding to the height of the topmost pixel of the face you copied from *(where the eyes were)*   
+- Place the "half-closed eye copy" in the same place as the white/green checkered area below the head's 2nd layer in the Example Image.
+- Next, the mod needs to know where your eyes are, place a numbered Color from the Color Guide in Choice Box #4 corresponding to the height of the topmost pixel of the face you copied from *(where the eyes were)*   
 *(The head texture is 8 pixels tall with #1 being the top line of the head & #8 being the bottom)*  
   *(For Example Default Steve's eyes are at line #5, so you would place the Brown #5 pixel in Choice Box #4)*
 - You are now done, the mod will take the appropriate eye copy below the head textures and replace your skin's eyes with it when it blinks  
@@ -140,13 +140,13 @@ This actually only supports 4 pixels, but you can simply copy an additional *non
 The whole face blinking option is the easiest way to do skin blinking but will use more space in the texture
 and may limit what features can be used in the future, this is only recommended for eyes larger than 4 pixels or not 'typical' eyes
 
-- First choose what kind of blinking you want, many skins have large eyes, so to smooth out blinking you can have either
+- First, choose what kind of blinking you want, many skins have large eyes, so to smooth out blinking you can have either
 - 1 frame of blinking (eye open & eye closed) or 2 frames (eye open & eye half closed & eye closed)
 - to select one you must change the color of Choice Box pixel #1 in the example above
-- to Select 1 frame you must use exactly the Pink pixel #1 from the Color Guide, for 2 frames use the Light Blue #2 instead
+- To select 1 frame you must use exactly the Pink pixel #1 from the Color Guide, for 2 frames use the Light Blue #2 instead
 - Once this is done you can now add blinking textures to your skin, make a copy of the front of your face and put it in the purple box with a #1 make this face have its eyes completely closed
 - Repeat with the extra head layer for your face and put that in the purple box with #3, just in case you have pop-out eyes
-- if you have selected a 2 frame blink repeat this process with purple boxes #2 & #4 except this time make the eyes half closed  
+- if you have selected a 2-frame blink repeat this process with purple boxes #2 & #4 except this time make the eyes half closed  
 
 - You can see this in the [Chicken](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/chicken.png) & [Slime Tuxedo](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/slime.png) skins
 
@@ -154,9 +154,9 @@ and may limit what features can be used in the future, this is only recommended 
 
 ## [Jacket / Dress Extensions](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/jacket.png)
 
-- This feature provides extension options for how minecraft renders the 'Jacket' layer of your minecraft skin *(the second layer that floats above your body)* and allows it to go up to 8 pixels further down
-- Typical uses could be for Jackets, Dresses, Villager cloaks and Robes.
-- The texturing is extremely straight forward, if enabled this feature will copy the contents of the top of the Legs floating skin layers and use them to build the extension *(these pixels are marked by a checkerboard pattern in the example image above)*.
+- This feature provides extension options for how Minecraft renders the 'Jacket' layer of your Minecraft skin *(the second layer that floats above your body)* and allows it to go up to 8 pixels further down
+- Typical uses could be for Jackets, Dresses, Villager cloaks, and Robes.
+- The texturing is extremely straightforward, if enabled this feature will copy the contents of the top of the Legs floating skin layers and use them to build the extension *(these pixels are marked by a checkerboard pattern in the example image above)*.
 
 To enable this feature **must** choose what ***Style*** of extension you want.  
 This is done by putting a pixel of your choice in Choice Box #2, the numbers below correspond to the
@@ -171,7 +171,7 @@ colored pixels in the Color Guide
 7. same as #4 but will ignore the top of leg texture
 
 Next you **must** choose what ***Length*** of extension you want.  
-This is done by putting a pixel of your choice in Choice Box #3, The color of pixel you choose must
+This is done by putting a pixel of your choice in Choice Box #3, The color of the pixel you choose must
 be one from the Color Guide.
 The number for that color in the Color Guide will be the extension length from 1 to 8 pixels.
 
@@ -182,16 +182,16 @@ Example skins: [Dress1](https://raw.githubusercontent.com/Traben-0/Entity_Textur
 ## Villager Nose
 
 - This feature provides the option to have a Villager nose
-- All you need to do is add a villager nose *(six villager nose colored pixels)* into you skin's face or floating face section
+- All you need to do is add a villager nose *(six villager nose colored pixels)* into your skin's face or floating face section
 
-[Example Skin]()
+[Example Skin](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/mod-skins/steve-villager.png)
 
 *(this example has a villager nose and also has a working villager cloak using the jacket extension features)*
 ---
 
-### Third party capes
+### Third-party capes
 
-*(This support is provided by the servers of these third party services, they may not always support this usage)*
+*(This support is provided by the servers of these third-party services, they may not always support this usage)*
 - These capes will also be checked for emissive and enchanted pixels as per the skin settings.
 
 ### Minecraftcapes.net Cape

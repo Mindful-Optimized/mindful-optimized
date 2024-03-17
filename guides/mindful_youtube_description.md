@@ -2,9 +2,12 @@
 
  ### [Our Mindful SMP Members](## "List shows currently active Mindful Members and Does not reflect the current server whitelist")
 
-- [BlueNinjar](https://www.youtube.com/@BlueNinjar) ![](https://mc-heads.net/avatar/7ee690f6674b478b960740a87ad72553/20)
-- ![](https://mc-heads.net/avatar/e01719f1facb437a940e308c05ec23a8/20) [BeastyFTW](https://www.youtube.com/@beastyftw)
-- ![](https://mc-heads.net/avatar/93e35e9bd76a47bca69be2ee1edf499c/20) [Chasmic](https://www.youtube.com/@Chasmic)
+- ![](https://mc-heads.net/avatar/7ee690f6674b478b960740a87ad72553/20)
+[BlueNinjar](https://www.youtube.com/@BlueNinjar)
+- ![](https://mc-heads.net/avatar/e01719f1facb437a940e308c05ec23a8/20)
+[BeastyFTW](https://www.youtube.com/@beastyftw)
+- ![](https://mc-heads.net/avatar/93e35e9bd76a47bca69be2ee1edf499c/20)
+[Chasmic](https://www.youtube.com/@Chasmic)
 - ![](https://mc-heads.net/avatar/2cc81f1477a24f9580e52e385b371304/20) [ConFoundit](https://www.youtube.com/@TheCONfoundit)
 - ![](https://mc-heads.net/avatar/ed00913d029948d5b2e030b9f7083038/20) [Ethiqs](https://www.youtube.com/@Ethiqs): 
 - ![](https://mc-heads.net/avatar/d6a671d5a0684376b40b8a3b0ae656de/20) [Fell](https://www.youtube.com/@mochigameyt9859): 
